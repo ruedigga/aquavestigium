@@ -53,6 +53,7 @@ class Video(Picture_patruus):
 
 
 def main():
+    print("Halli Galloi")
     pass
 
 

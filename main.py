@@ -53,7 +53,7 @@ class Video(Picture_patruus):
 
 
 def main():
-    print("Ein allerletzter Test für dieses Projekt")
+    
     pass
 
 

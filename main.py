@@ -59,6 +59,7 @@ class Video(Picture_patruus):
 
 ###arschleck3.50###
 
+'''Du bist immernoch der geilste Programmier Onkel'''
 
 def main():
     pass

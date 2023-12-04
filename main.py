@@ -48,7 +48,8 @@ class Logo(Picture_patruus):
         
 #Video Klasse
 class Video(Picture_patruus):
-    def __init
+    def __init__(self, name, path):
+        super().__init__(name, path)
     
 
     
@@ -56,7 +57,7 @@ class Video(Picture_patruus):
 
 
 
-
+###arschleck3.50###
 
 
 def main():
@@ -65,7 +66,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
-    
-
-

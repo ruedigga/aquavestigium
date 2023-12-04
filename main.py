@@ -16,7 +16,7 @@ class Picture_patruus:
     def inserta(self):
         pass
     
-    dddd
+
     
 #Hintergrund Bild (Tochter)
 class Picture(Picture_patruus):

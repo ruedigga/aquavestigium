@@ -54,8 +54,8 @@ class Video(Picture_patruus):
 
 def main():
     print("Halli Galloi")
-    print("Schnorcheln am Abend")
-    print("Du bist der allerletze")
+    print("Schnorcheln am Abend, hält wach")
+    
     pass
 
 

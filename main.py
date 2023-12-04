@@ -48,7 +48,8 @@ class Logo(Picture_patruus):
         
 #Video Klasse
 class Video(Picture_patruus):
-    def __init
+    def __init__(self, name, path):
+        super().__init__(name, path)
     
 
     

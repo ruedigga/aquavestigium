@@ -50,16 +50,19 @@ class Logo(Picture_patruus):
 class Video(Picture_patruus):
     def __init__(self, name, path):
         super().__init__(name, path)
-    
 
-    
-    
 
 
 
 ###arschleck3.50###
 
 '''Du bist immernoch der geilste Programmier Onkel'''
+
+
+
+'''Arschgeiler'''
+
+
 
 def main():
     pass

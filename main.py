@@ -52,18 +52,6 @@ class Video(Picture_patruus):
         super().__init__(name, path)
 
 
-
-
-###arschleck3.50###
-
-'''Du bist immernoch der geilste Programmier Onkel'''
-
-
-
-'''Arschgeiler'''
-
-
-
 def main():
     pass
 

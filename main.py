@@ -53,7 +53,6 @@ class Video(Picture_patruus):
 
 
 def main():
-    
     pass
 
 
